@@ -81,12 +81,11 @@ This project demonstrates how to deploy a **scalable** and **secure** web applic
 
 ---
 
-## 📌 Conclusion  
+📌 Conclusion  
 You have successfully deployed a **scalable** and **secure** web application on Azure using:  
 ✅ **Azure App Service**  
 ✅ **Azure Load Balancer**  
 ✅ **Auto-scaling**  
 ✅ **Security Enhancements (HTTPS, WAF)**  
 
-🎉 Your web app is now live and scalable! 🚀  
 
